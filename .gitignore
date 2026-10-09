@@ -107,3 +107,4 @@ dmypy.json
 
 # Streamlit
 .streamlit/secrets.toml
+.venv312
